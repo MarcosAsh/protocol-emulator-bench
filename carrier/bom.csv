@@ -1,0 +1,58 @@
+qty,refs,value,description,part number,footprint,fit
+1,C1,10u,"5V_A bulk, leaded MLCC 10 uF 25 V X5R, 5.08 mm",Dersonic CD1E106MC9BER2F100,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,fit
+1,C2,100n,5V_A decoupling,Fenghua CT4-0805B104K500F1,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,fit
+1,C3,10u,"3V3_A bulk, leaded MLCC 10 uF 25 V X5R, 5.08 mm",Dersonic CD1E106MC9BER2F100,Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm,fit
+1,C4,100n,3V3_A decoupling,Fenghua CT4-0805B104K500F1,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,fit
+1,C5,100n,74AHCT125 VCC decoupling,Fenghua CT4-0805B104K500F1,Capacitor_THT:C_Disc_D3.0mm_W1.6mm_P2.50mm,fit
+1,D1,green,"3 mm green LED, 3V3_A on",Everlight 204-10SYGD/S530-E2-L,LED_THT:LED_D3.0mm,fit
+1,D2,green,"3 mm green LED, 3V3_B on",Everlight 204-10SYGD/S530-E2-L,LED_THT:LED_D3.0mm,fit
+1,D3,red,"3 mm red LED, 5V_A on",Everlight 204-10SDRD/S530-A3-L,LED_THT:LED_D3.0mm,fit
+1,J1,Icepi Zero,"2x20 female header 2.54 mm, 8.5 mm tall (Icepi Zero socket)",Sullins PPTC202LFBN-RC,carrier:icepi,fit
+1,J10,EEPROM,1x4 male header 2.54 mm (Gravity cable dupont ends),generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,fit
+1,J11,ETHERNET,2x3 male header 2.00 mm (PJRC kit ribbon cable),Sullins NRPN032PAEN-RC,Connector_PinHeader_2.00mm:PinHeader_2x03_P2.00mm_Vertical,fit
+1,J12,SPARE,1x4 male header 2.54 mm,generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,fit
+1,J13,Pico A left,"1x20 female header 2.54 mm, 8.5 mm (Pico A pins 1-20)",Kinghelm KH-2.54FH-1X20P-H8.5,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,fit
+1,J14,Pico A right,"1x20 female header 2.54 mm, 8.5 mm (Pico A pins 40-21)",Kinghelm KH-2.54FH-1X20P-H8.5,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,fit
+1,J15,Pico B left,"1x20 female header 2.54 mm, 8.5 mm (Pico B pins 1-20)",Kinghelm KH-2.54FH-1X20P-H8.5,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,fit
+1,J16,Pico B right,"1x20 female header 2.54 mm, 8.5 mm (Pico B pins 40-21)",Kinghelm KH-2.54FH-1X20P-H8.5,Connector_PinSocket_2.54mm:PinSocket_1x20_P2.54mm_Vertical,fit
+1,J17,I2C,"1x4 male header 2.54 mm, spare I2C (GND 3V3 SDA SCL)",generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical,fit
+1,J2,ANALYSER A,1x9 male header 2.54 mm,generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,fit
+1,J3,ANALYSER B,1x9 male header 2.54 mm,generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Vertical,fit
+1,J4,CAN A,1x4 female header 2.54 mm (Waveshare SN65HVD230 board A),Sullins PPTC041LFBN-RC,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,fit
+1,J5,CAN A BUS,1x2 male header 2.54 mm (CANH/CANL jumpers to board A),generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,fit
+1,J6,CAN B,1x4 female header 2.54 mm (Waveshare SN65HVD230 board B),Sullins PPTC041LFBN-RC,Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical,fit
+1,J7,CAN B BUS,1x2 male header 2.54 mm (CANH/CANL jumpers to board B),generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,fit
+1,J8,SWD,1x3 male header 2.54 mm (Pico debug cable jumper ends),generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,fit
+1,J9,NEOPIXEL,1x3 male header 2.54 mm,generic 2.54 mm break-away header,Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical,fit
+1,JP1,TERM,1x2 male header 2.54 mm (CAN terminator on/off) + shunt,generic 2.54 mm header + jumper cap,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,fit
+1,R1,120R,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-120R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,fit
+2,R11 R12,220R,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-220R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+2,R14 R15,47R,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-47R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+1,R16,470R,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-470R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,fit
+3,R17 R18 R19,1k,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-1K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,fit
+2,R2 R3,10k,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-10K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+1,R4,330R,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-330R,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+2,R5 R6,2k2,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-2K2,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+2,R7 R13,4k7,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-4K7,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+3,R8 R9 R10,1k,"resistor, 1/4 W metal film 1 %",Yageo MFR-25FBF52-1K,Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,fit
+1,SW1,REPLUG,"6 mm THT tactile switch, Pico A GP9 to GND",HRO K2-1102DP-C4SW-04,Button_Switch_THT:SW_PUSH_6mm,fit
+3,TP1 TP2 TP3,GND,"test loop GND, black",Keystone 5001,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,TP4,CANH,"test loop, white",Keystone 5002,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,TP5,CANL,"test loop, white",Keystone 5002,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,TP6,DQ,"test loop, white",Keystone 5002,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,TP7,SDA,"test loop, white",Keystone 5002,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,TP8,SCL,"test loop, white",Keystone 5002,TestPoint:TestPoint_Keystone_5000-5004_Miniature,fit
+1,U3,74AHCT125,"quad buffer, 5 V, DIP-14 (+ DIP-14 socket)",TI SN74AHCT125N + Mill-Max 110-43-314-41-001000,Package_DIP:DIP-14_W7.62mm_Socket,fit
+1,U4,W25Q64 breakout,Adafruit QSPI DIP breakout W25Q64 (+ DIP-8 socket),Adafruit 5633 + Mill-Max 110-43-308-41-001000,Package_DIP:DIP-8_W7.62mm_Socket,fit
+1,U5,DS18B20,"1-Wire temperature sensor, TO-92",Analog Devices DS18B20+,Package_TO_SOT_THT:TO-92_Inline_Wide,fit
+
+qty,plug-in,value,description,part number,,
+1,J1,Icepi Zero,ECP5 FPGA board playing the chip (v1.3/v1.4),cheyao Icepi Zero (Elecrow),,
+2,U1 U2,Pico H,"Raspberry Pi Pico H, headers fitted",Raspberry Pi SC0917,,
+2,J4 J6,CAN board,Waveshare SN65HVD230 CAN Board,Waveshare SKU 3945,,
+1,U4,flash,Adafruit QSPI DIP breakout W25Q64,Adafruit 5633,,
+1,J10,EEPROM,DFRobot Gravity 24LC256 I2C EEPROM module + Gravity-to-dupont cable,DFRobot DFR0117,,
+1,J11,MagJack,PJRC Ethernet Kit for Teensy 4.1 (with its ribbon cable),PJRC ETHERNET_KIT,,
+1,JP1,shunt,2.54 mm jumper cap for the CAN terminator (cap on = terminated),BOOMELE C100114,,
+4,H1-H4,M3,M3 standoff + screw (corners),generic,,
+4,H5-H8,M2.5,"optional M2.5 standoffs under the Icepi, height = socket stack",generic,,
