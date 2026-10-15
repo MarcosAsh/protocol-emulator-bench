@@ -1,0 +1,58 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","10u","C_Disc_D5.0mm_W2.5mm_P5.00mm",30.500000,97.630000,0.000000,top
+"C2","100n","C_Disc_D3.0mm_W1.6mm_P2.50mm",30.500000,94.500000,0.000000,top
+"C3","10u","C_Disc_D5.0mm_W2.5mm_P5.00mm",30.500000,87.470000,0.000000,top
+"C4","100n","C_Disc_D3.0mm_W1.6mm_P2.50mm",30.500000,90.600000,0.000000,top
+"C5","100n","C_Disc_D3.0mm_W1.6mm_P2.50mm",56.000000,74.000000,0.000000,top
+"D1","green","LED_D3.0mm",84.200000,19.400000,0.000000,top
+"D2","green","LED_D3.0mm",84.200000,14.900000,0.000000,top
+"D3","red","LED_D3.0mm",84.200000,10.400000,0.000000,top
+"J1","Icepi Zero","IcepiZero_Socket_2x20_FaceDown",25.875000,25.725000,0.000000,top
+"J2","ANALYSER A","PinHeader_1x09_P2.54mm_Vertical",5.000000,44.000000,0.000000,top
+"J3","ANALYSER B","PinHeader_1x09_P2.54mm_Vertical",88.000000,44.000000,0.000000,top
+"J4","CAN A","PinSocket_1x04_P2.54mm_Vertical",46.810000,97.000000,-90.000000,top
+"J5","CAN A BUS","PinHeader_1x02_P2.54mm_Vertical",40.000000,82.000000,0.000000,top
+"J6","CAN B","PinSocket_1x04_P2.54mm_Vertical",64.310000,97.000000,-90.000000,top
+"J7","CAN B BUS","PinHeader_1x02_P2.54mm_Vertical",60.000000,82.000000,0.000000,top
+"J8","SWD","PinHeader_1x03_P2.54mm_Vertical",60.000000,49.500000,90.000000,top
+"J9","NEOPIXEL","PinHeader_1x03_P2.54mm_Vertical",44.000000,48.000000,90.000000,top
+"J10","EEPROM","PinHeader_1x04_P2.54mm_Vertical",58.000000,70.000000,90.000000,top
+"J11","ETHERNET","PinHeader_2x03_P2.00mm_Vertical",79.000000,45.000000,0.000000,top
+"J12","SPARE","PinHeader_1x04_P2.54mm_Vertical",5.000000,19.000000,0.000000,top
+"J13","Pico A left","PinSocket_1x20_P2.54mm_Vertical_NoSilk",9.610000,97.630000,0.000000,top
+"J14","Pico A right","PinSocket_1x20_P2.54mm_Vertical_NoSilk",27.390000,97.630000,0.000000,top
+"J15","Pico B left","PinSocket_1x20_P2.54mm_Vertical_NoSilk",72.610000,97.630000,0.000000,top
+"J16","Pico B right","PinSocket_1x20_P2.54mm_Vertical_NoSilk",90.390000,97.630000,0.000000,top
+"J17","I2C","PinHeader_1x04_P2.54mm_Vertical",34.000000,44.200000,0.000000,top
+"JP1","TERM","PinHeader_1x02_P2.54mm_Vertical",50.040000,77.400000,90.000000,top
+"R1","120R","R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical",47.500000,83.700000,0.000000,top
+"R2","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",33.500000,62.000000,0.000000,top
+"R3","10k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",42.000000,54.500000,0.000000,top
+"R4","330R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",42.000000,51.500000,0.000000,top
+"R5","2k2","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",58.000000,65.500000,0.000000,top
+"R6","2k2","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",58.000000,62.500000,0.000000,top
+"R7","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",58.000000,52.800000,0.000000,top
+"R8","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",23.000000,15.000000,0.000000,top
+"R9","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",33.500000,15.000000,0.000000,top
+"R10","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",44.000000,15.000000,0.000000,top
+"R11","220R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",54.500000,15.000000,0.000000,top
+"R12","220R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",65.000000,15.000000,0.000000,top
+"R13","4k7","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",68.500000,57.000000,-90.000000,top
+"R14","47R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",72.400000,31.600000,90.000000,top
+"R15","47R","R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal",75.600000,31.600000,90.000000,top
+"R16","470R","R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical",79.500000,36.500000,0.000000,top
+"R17","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical",90.600000,19.400000,0.000000,top
+"R18","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical",90.600000,14.900000,0.000000,top
+"R19","1k","R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical",90.600000,10.400000,0.000000,top
+"SW1","REPLUG","SW_PUSH_6mm",19.600000,41.700000,0.000000,top
+"TP1","GND","TestPoint_Keystone_5000-5004_Miniature",36.800000,32.800000,0.000000,top
+"TP2","GND","TestPoint_Keystone_5000-5004_Miniature",36.000000,56.000000,0.000000,top
+"TP3","GND","TestPoint_Keystone_5000-5004_Miniature",87.000000,6.000000,0.000000,top
+"TP4","CANH","TestPoint_Keystone_5000-5004_Miniature",19.800000,32.800000,0.000000,top
+"TP5","CANL","TestPoint_Keystone_5000-5004_Miniature",23.200000,32.800000,0.000000,top
+"TP6","DQ","TestPoint_Keystone_5000-5004_Miniature",26.600000,32.800000,0.000000,top
+"TP7","SDA","TestPoint_Keystone_5000-5004_Miniature",30.000000,32.800000,0.000000,top
+"TP8","SCL","TestPoint_Keystone_5000-5004_Miniature",33.400000,32.800000,0.000000,top
+"U3","74AHCT125","DIP-14_W7.62mm_Socket",45.000000,73.000000,0.000000,top
+"U4","W25Q64 breakout","DIP-8_W7.62mm_Socket",33.500000,73.000000,0.000000,top
+"U5","DS18B20","TO-92_Inline_Wide",58.000000,58.000000,0.000000,top

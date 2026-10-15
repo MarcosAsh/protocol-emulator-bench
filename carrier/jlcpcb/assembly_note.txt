@@ -1,0 +1,32 @@
+JLCPCB through-hole assembly estimate (not a quote; check the live quote before ordering)
+pricing source: jlcpcb.com/help/article/pcb-assembly-price, read 2026-10-06
+
+THT solder joints per board: 267 (57 parts on 29 LCSC lines)
+parts per board at 1+ prices: $7.14
+manual THT soldering: 267 joints x $0.0164 = $4.38 per board
+setup fee (single side): $25.56 per order
+stencil: $8.21 only if JLC insists for a THT-only job (no SMD parts here)
+extended-part feeder loading ($1.53 each) is listed for SMT; likely not charged for hand-fitted THT
+
+for 2 boards: setup $25.56 + parts $14.28 + soldering $8.76 = about $49, plus the bare PCBs and shipping
+
+every part is a JLC 'extended' part (connectors, sockets and THT passives are never basic)
+
+not assembled: nothing, every footprint is fitted
+
+owner-fitted after delivery:
+  jumper cap on JP1 (LCSC C100114, order loose with the boards; on = 120R across CANH/CANL)
+  Icepi Zero (into J1), face down: chip and USB-C toward the carrier, buttons up
+  2x Raspberry Pi Pico H SC0917 (into J13/J14 and J15/J16)
+  2x Waveshare SN65HVD230 CAN Board SKU 3945 (into J4, J6) + 4 jumper wires J5/J7 to their CANH/CANL
+  TI SN74AHCT125N (into the U3 socket)
+  Adafruit 5633 W25Q64 DIP breakout (into the U4 socket)
+  DFRobot DFR0117 EEPROM (Gravity cable dupont ends onto J10)
+  PJRC ETHERNET_KIT MagJack board (ribbon cable onto J11)
+  Pico debug cable jumper ends onto J8, NeoPixel lead onto J9
+  M3 standoffs (H1-H4), optional M2.5 standoffs under the Icepi (H5-H8)
+
+notes:
+  CPL Mid X/Y is the centre of each part's pads, board mm from the bottom-left corner, y up.
+  THT connector rotations often need a nudge in JLC's placement preview; check pin 1 of
+  J1, J13-J16, U3, U4 and U5 there before paying.

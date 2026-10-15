@@ -1,0 +1,30 @@
+Comment,Designator,Footprint,LCSC Part #
+2x20 female header 2.54 mm 8.5 mm (Icepi),J1,IcepiZero_Socket_2x20_FaceDown,C5124634
+1x20 female header 2.54 mm 8.5 mm (Pico sockets),"J13,J14,J15,J16",PinSocket_1x20_P2.54mm_Vertical_NoSilk,C2905423
+1x4 female header 2.54 mm (Waveshare CAN boards),"J4,J6",PinSocket_1x04_P2.54mm_Vertical,C2718488
+1x9 male header 2.54 mm (analysers),"J2,J3",PinHeader_1x09_P2.54mm_Vertical,C27985193
+1x4 male header 2.54 mm,"J10,J12",PinHeader_1x04_P2.54mm_Vertical,C32713270
+1x3 male header 2.54 mm,"J8,J9",PinHeader_1x03_P2.54mm_Vertical,C49257
+1x2 male header 2.54 mm (CANH/CANL),"J5,J7",PinHeader_1x02_P2.54mm_Vertical,C42431798
+2x3 male header 2.00 mm (PJRC Ethernet kit cable),J11,PinHeader_2x03_P2.00mm_Vertical,C32713234
+DIP-14 IC socket 7.62 mm (74AHCT125 goes in by hand),U3,DIP-14_W7.62mm_Socket,C2325
+DIP-8 IC socket 7.62 mm (Adafruit flash breakout goes in by hand),U4,DIP-8_W7.62mm_Socket,C72124
+DS18B20+ TO-92,U5,TO-92_Inline_Wide,C9753
+47R 1/4W 1% metal film,"R14,R15",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C58604
+220R 1/4W 1% metal film,"R11,R12",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C57439
+330R 1/4W 1% metal film,R4,R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C58608
+470R 1/4W 1% metal film,R16,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,C58592
+1k 1/4W 1% metal film,"R8,R9,R10,R17,R18,R19",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C57435
+"120R 1/4W 1% metal film (CAN terminator, via JP1)",R1,R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical,C58619
+1x2 male header 2.54 mm (CAN terminator jumper),JP1,PinHeader_1x02_P2.54mm_Vertical,C42431798
+1x4 male header 2.54 mm (spare I2C),J17,PinHeader_1x04_P2.54mm_Vertical,C32713270
+"3 mm green LED (3V3_A, 3V3_B)","D1,D2",LED_D3.0mm,C181864
+3 mm red LED (5V_A),D3,LED_D3.0mm,C84774
+"6x6 mm THT tactile switch, 5 mm (REPLUG)",SW1,SW_PUSH_6mm,C110153
+Keystone 5001 black test point (GND),"TP1,TP2,TP3",TestPoint_Keystone_5000-5004_Miniature,C238122
+Keystone 5002 white test point (CANH CANL DQ SDA SCL),"TP4,TP5,TP6,TP7,TP8",TestPoint_Keystone_5000-5004_Miniature,C238123
+2k2 1/4W 1% metal film,"R5,R6",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C58595
+4k7 1/4W 1% metal film,"R7,R13",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C57204
+10k 1/4W 1% metal film,"R2,R3",R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal,C57436
+10uF 25V X5R leaded MLCC 5.08 mm,"C1,C3",C_Disc_D5.0mm_W2.5mm_P5.00mm,C2761733
+100nF 50V X7R leaded MLCC 2.54 mm,"C2,C4,C5",C_Disc_D3.0mm_W1.6mm_P2.50mm,C168753
